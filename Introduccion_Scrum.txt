@@ -1,1 +1,42 @@
-test 2
+Scrum es la metodologia agil mas usada en el mundo
+
+Scrum es util en proyectos donde implica lo siguiente:
+    al desarrollar productos con tecnologia de vanguardia
+    equipos multifuncionales altamente calificados y dedicados
+    al desarrollar productos en entornos hipercompetitivos
+    requerimientos de cambios frecunetes e intenpestivos
+    cuando queremos regular la retroalimentacion debido a la existencia de requisitos muy complejos
+Ventajas de utilizar Scrum
+    Adaptabilidad : procesos empiricos y desarrollo iterativo hacen que sean adaptables
+    Transparencia : Scrum board y el sprint burnwonchart es publico y compartido por todo el equipo
+    retroalimentacion continua :Conduct Daily standup y demostrate and validate sprint
+    Mejora continua: Los entregables van mejorando sprint por sprint
+    Entrega Continua de valor: 
+    Ritmo sostenible
+    Entrega rapida de alto valor
+    proceso de desarrollo eficiente:time-boxing y la reduccion del minimo de trabajo que no es escencia
+    motivacion : Conduct daily standup y retrospect sprint
+    resolucion de problemas de forma mas rapida:colaboracion y colocacion de equipos multifuncionales ayudan en la resolucion de problemas mas rapidos
+    entregable efectivos:create prioritized product backlog y revisiones periodicas aseguran el productos
+    centrado en el cliente: enfasis en el valor del negocio
+    Entorno de alta confianza: conduct daily standup y retrospect sprint promueven la transparencia y contribuyen a tener un ambiente de mayor confianza
+    Responsabilidad colectiva: Approve, Estimate and commit user hacen que los miembros del equipo de sientan responsables del proyecto
+    Alta velocidad : marco de colaboracion que permite a los equipos multifuncionales
+    Medio ambiente motivador: retrospect sprint and project crean un ambiente de cnfianza
+Principios de scrum
+    Control de procesos empiricos: para los trabajadores actuales que trabajam de manera autoorganizadas. esto trae imnovacion y creatividad
+    auto-organizados:es lo primordial y se basa en tres ideas: transparencia, inspeccion y la adaptacion
+    colaboracion : tres definiciones basicas
+        conciencia/sensibilidad:cada integrante debe ser conciente del trabajo de los demas
+        articulacion:el trabajo se divide en unidades los cuales son asignadas a cada miembro del equipo
+        apropiacion:adaptar la tecnologia a nuestra propia situacion
+    priorizacion basada en valores:ofrecer el maximo valor del negocio, desde el principio hasta su conclucion
+    time boxing - tiempo organizado: el tiempo se considera una restriccion limitante en scrum
+    desarrollo iterativo:
+los principios no son negociables, pero los aspectos y procesos pueden ser modificables
+
+
+
+
+
+
